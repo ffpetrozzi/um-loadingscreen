@@ -1,12 +1,18 @@
-[+] Inserita la possibilità di salvare ed eliminare gli outfit al Negozio di Vestiti
-[+] Inserita la possibilità di accedere al Menu Boss al Vice Direttore dell'Armeria
-[+] Inserita una nuova mappa dell'Armeria
-[+] Inserito il Negozio di Tatuaggi
-[+] Inserito l'NPC per i Vestiti Lavorativi all'East Custom
-[+] Modificato il cellulare, ora le chiamate lavorative arriveranno nell'app Messaggi anzichè nell'app Azienda
-[+] Fixato il bug della Creazione del Personaggio (In fase di test)
-[+] Fixato il Boss Menu del Post OP
-[+] Fixata la mappa dell'East Custom
-[+] Fixati i Depositi Oggetti delle Aziende che venivano visualizzati solamente dal Proprietario di quest'ultima
-[+] Diminuiti leggermente gli NPC
-[-] Rimosso lo Shop del cibo all'interno della Centrale di Polizia
+[+] Inserita la possibilità di rimuoversi i vestiti al Negozio di Vestiti, Barbiere e Negozio di Tatuaggi
+[+] Inserita la possibilità al Vice Governatore di accedere al Menu Boss
+[+] Inserita la nuova Mappa dell'Ospedale
+[+] Inserita la rotella dei Vestiti con il tasto Y
+[+] Inserita nuova moto alla Polizia: BMW Stradale
+[+] Inserita nuova moto alla Polizia: BF400
+[+] Inserito il Blip per lo spawn dei Veicoli Aziendali al Governo
+[+] Inserito il Deposito Oggetti all'Ospedale
+[+] Inserito Ripetitore WiFi in Centrale di Polizia
+[+] Inseriti Ripetitori WiFi a Paleto
+[+] Inseriti Ripetitori WiFi a Cayo Perico
+[+] Inseriti Doorlock al Governo
+[+] Diminuiti ulteriormente gli NPC
+[+] Diminuiti i prezzi delle modifiche del Motore all'East Custom
+[+] Diminuiti leggermente i prezzi del cibo al Post OP
+[+] Fixato il bug dei Vestiti Lavorativi
+[+] Fixati gli Handling delle auto della Polizia
+[-] Rimossa la possibilità di cambiare le Caratteristiche del Viso al Barbiere
