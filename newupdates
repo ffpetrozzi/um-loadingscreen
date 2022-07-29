@@ -1,18 +1,15 @@
-[+] Inserita la possibilità di rimuoversi i vestiti al Negozio di Vestiti, Barbiere e Negozio di Tatuaggi
-[+] Inserita la possibilità al Vice Governatore di accedere al Menu Boss
-[+] Inserita la nuova Mappa dell'Ospedale
-[+] Inserita la rotella dei Vestiti con il tasto Y
-[+] Inserita nuova moto alla Polizia: BMW Stradale
-[+] Inserita nuova moto alla Polizia: BF400
-[+] Inserito il Blip per lo spawn dei Veicoli Aziendali al Governo
-[+] Inserito il Deposito Oggetti all'Ospedale
-[+] Inserito Ripetitore WiFi in Centrale di Polizia
-[+] Inseriti Ripetitori WiFi a Paleto
-[+] Inseriti Ripetitori WiFi a Cayo Perico
-[+] Inseriti Doorlock al Governo
-[+] Diminuiti ulteriormente gli NPC
-[+] Diminuiti i prezzi delle modifiche del Motore all'East Custom
-[+] Diminuiti leggermente i prezzi del cibo al Post OP
-[+] Fixato il bug dei Vestiti Lavorativi
-[+] Fixati gli Handling delle auto della Polizia
-[-] Rimossa la possibilità di cambiare le Caratteristiche del Viso al Barbiere
+[+] Inserito lo spawn degli elicotteri all'Ospedale
+[+] Inserito il Longshot
+[+] Inserite le Rapine ai Negozietti
+[+] Inserite le Rapine alle Fleeca
+[+] Inseriti nuovi Garage in tutta la Mappa
+[+] Aumentati i prezzi dei picconi al Minatore
+[+] Aumentata l'esperienza minima al Minatore per poter trovare più minerali
+[+] Diminuiti i guadagni del Minatore
+[+] Diminuito il danno dei Pugni
+[+] Fixato il telefono, ora è possibile utilizzarlo senza problemi
+[+] Fixato il Blip dei veicoli aziendali dell'Ospedale
+[+] Modificato il comando /ambulance in /ems
+[+] Modificato il punto del processo del Tabacco
+[-] Rimossa l'autorigenerazione della vita quando essa è sotto la metà
+[-] Rimosso il cambio posto automatico da passeggero a guidatore quando quest'ultimo non è presente
