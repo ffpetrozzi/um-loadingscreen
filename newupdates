@@ -1,18 +1,10 @@
-[+] Inserito il logo del Server in alto a destra
-[+] Inserito il Kit di Riparazione Auto
-[+] Inserite nuove auto alla Polizia
-[+] Inserita l'auto "Lamborghini Aventador SVJ"
-[+] Inserita l'auto "Mazda RX-7"
-[+] Inserita la possibilità ai Medici di controllare la causa della morte
-[+] Modificata la schermata della morte
-[+] Aumentata la capienza di tutti i Depositi Oggetti
-[+] Aumentati gli slot di tutti i Depositi Oggetti
-[+] Diminuito il peso del Cibo
-[+] Diminuito il peso delle Bevande
-[+] Diminuito il peso del Tabacco
-[+] Diminuito il peso del Tabacco Lavorato
-[+] Fixate le chiamate lavorative del Governo
-[+] Fixate le chiamate lavorative del Post OP
-[+] Fixate le chiamate lavorative dell'East Custom
-[+] Fixate le chiamate lavorative dell'Armeria
-[+] Fixato lo spawn dei veicoli in Ospedale
+[+] Inserito il menu della gestione auto con il tasto F11
+[+] Inserito il comando /FPS per la gestione della grafica (FPS Booster)
+[+] Inserito il comando /GPS (civico) per impostare rapidamente  il navigatore
+[+] Inserito il comando /ANON (messaggio) per scrivere dei Tweet in modo totalmente anonimo
+[+] Inserito il Menu Criminale nel Menu F5
+[+] Inserite le Armi Automatiche
+[+] Aumentata la capienza del Deposito Oggetti dei Motel
+[+] Aumentato il range del deposito veicoli all'Eliporto EMS
+[+] Diminuiti ulteriormente gli NPC
+[+] Fixata la livrea dell'ambulanza, ora spawna sempre con la livrea giusta
