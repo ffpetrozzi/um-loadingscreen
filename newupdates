@@ -1,10 +1,9 @@
-[+] Inserito il menu della gestione auto con il tasto F11
-[+] Inserito il comando /FPS per la gestione della grafica (FPS Booster)
-[+] Inserito il comando /GPS (civico) per impostare rapidamente  il navigatore
-[+] Inserito il comando /ANON (messaggio) per scrivere dei Tweet in modo totalmente anonimo
-[+] Inserito il Menu Criminale nel Menu F5
-[+] Inserite le Armi Automatiche
-[+] Aumentata la capienza del Deposito Oggetti dei Motel
-[+] Aumentato il range del deposito veicoli all'Eliporto EMS
-[+] Diminuiti ulteriormente gli NPC
-[+] Fixata la livrea dell'ambulanza, ora spawna sempre con la livrea giusta
+[+] Inserito il Kit di Riparazione Armi acquistabile in Armeria
+[+] Inserito Garage vicino il Concessionario Auto
+[+] Inserito Garage nel parcheggio della Centrale di Polizia
+[+] Inserito Garage all'interno del Pinckage Motel
+[+] Inserito Garage all'interno del Bayview Lodge Motel
+[+] Inserito l'item "Contratto" per il Concessionario Auto Usate
+[+] Inserita nuova Droga accessibile a tutti: Cannabis
+[+] Inserita nuova Droga solo per le Mafie: Scoprilo in RP
+[+] Fixati i nomi dei Veicoli aziendali della Polizia
